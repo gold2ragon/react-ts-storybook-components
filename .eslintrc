@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "react-app",
+  ],
+  "plugins": [
+  ],
+  "rules": {
+  }
+}
